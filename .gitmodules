@@ -1,0 +1,3 @@
+[submodule "bundle-geode-1-app-perf_test_mysql-cluster-mysql"]
+	path = bundle-geode-1-app-perf_test_mysql-cluster-mysql
+	url = https://github.com/padogrid/bundle-geode-1-app-perf_test_mysql-cluster-mysql.git
