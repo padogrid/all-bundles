@@ -4,3 +4,39 @@
 [submodule "bundle-geode-1-docker-debezium_kafka"]
 	path = bundle-geode-1-docker-debezium_kafka
 	url = https://github.com/padogrid/bundle-geode-1-docker-debezium_kafka.git
+[submodule "bundle-hazelcast-3n4-docker-debezium_kafka"]
+	path = bundle-hazelcast-3n4-docker-debezium_kafka
+	url = https://github.com/padogrid/bundle-hazelcast-3n4-docker-debezium_kafka.git
+[submodule "bundle-hazelcast-training-3-app-perf_test_openssl-cluster-openssl"]
+	path = bundle-hazelcast-training-3-app-perf_test_openssl-cluster-openssl
+	url = https://github.com/padogrid/bundle-hazelcast-training-3-app-perf_test_openssl-cluster-openssl.git
+[submodule "bundle-hazelcast-training-3.11-app-perf_test_v3.11-cluster-v3.11"]
+	path = bundle-hazelcast-training-3.11-app-perf_test_v3.11-cluster-v3.11
+	url = https://github.com/padogrid/bundle-hazelcast-training-3.11-app-perf_test_v3.11-cluster-v3.11.git
+[submodule "bundle-snappydata-1-docker-debezium_kafka"]
+	path = bundle-snappydata-1-docker-debezium_kafka
+	url = https://github.com/padogrid/bundle-snappydata-1-docker-debezium_kafka.git
+[submodule "bundle-jet-4-docker-cdc_tutorial"]
+	path = bundle-jet-4-docker-cdc_tutorial
+	url = https://github.com/padogrid/bundle-jet-4-docker-cdc_tutorial.git
+[submodule "bundle-hazelcast-3-app-perf_test_sb-cluster-sb"]
+	path = bundle-hazelcast-3-app-perf_test_sb-cluster-sb
+	url = https://github.com/padogrid/bundle-hazelcast-3-app-perf_test_sb-cluster-sb
+[submodule "bundle-hazelcast-3-app-pado_dbsched-perf_test_dbsched-cluster-dbsched"]
+	path = bundle-hazelcast-3-app-pado_dbsched-perf_test_dbsched-cluster-dbsched
+	url = https://github.com/padogrid/bundle-hazelcast-3-app-pado_dbsched-perf_test_dbsched-cluster-dbsched
+[submodule "bundle-hazelcast-3-app-perf_test_db-cluster-db"]
+	path = bundle-hazelcast-3-app-perf_test_db-cluster-db
+	url = https://github.com/padogrid/bundle-hazelcast-3-app-perf_test_db-cluster-db
+[submodule "bundle-geode-1-app-perf_test_powerbi-cluster-powerbi"]
+	path = bundle-geode-1-app-perf_test_powerbi-cluster-powerbi
+	url = https://github.com/padogrid/bundle-geode-1-app-perf_test_powerbi-cluster-powerbi
+[submodule "bundle-geode-1-app-perf_test_wan-cluster-ln-ny"]
+	path = bundle-geode-1-app-perf_test_wan-cluster-ln-ny
+	url = https://github.com/padogrid/bundle-geode-1-app-perf_test_wan-cluster-ln-ny
+[submodule "bundle-hazelcast-3-app-pado"]
+	path = bundle-hazelcast-3-app-pado
+	url = https://github.com/padogrid/bundle-hazelcast-3-app-pado
+[submodule "bundle-jet-3-cluster-trade"]
+	path = bundle-jet-3-cluster-trade
+	url = https://github.com/padogrid/bundle-jet-3-cluster-trade
